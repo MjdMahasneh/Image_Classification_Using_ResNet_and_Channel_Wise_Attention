@@ -19,12 +19,11 @@ This repository contains an implementation of an image classification model comb
 
 ## Usage
 
-To train and evaluate the image classification model, follow the steps in the notebook:
+To train and evaluate the image classification model:
 
 1. **Clone the Repository**: Clone this repository and install the required libraries.
-2. **Configure Model and Data**: Modify configurations as needed (e.g., dataset paths, model hyperparameters).
-3. **Train the Model**: Use the provided training script to train the model on your dataset.
-4. **Evaluate**: Run the evaluation script to test model performance.
+2. **Follow the steps in the notebook**: Modify configurations as needed (e.g., dataset paths, model hyperparameters).
+
 
 ## Applications
 
