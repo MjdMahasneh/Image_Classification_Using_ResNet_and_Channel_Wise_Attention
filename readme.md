@@ -1,6 +1,6 @@
 # Image Classification Using ResNet and Channel-Wise (Squeeze and Excitation) Attention
 
-This repository contains an implementation of an image classification model combining the ResNet architecture with channel-wise attention mechanisms, such as Squeeze-and-Excitation (SE) blocks. By integrating attention, this model enhances feature representations, allowing for improved classification performance on complex image datasets.
+This repository contains an implementation of an image classification model combining the ResNet architecture with channel-wise attention mechanisms, such as Squeeze-and-Excitation (SE) blocks. By integrating attention, this model enhances feature representations, allowing for improved classification performance on complex image datasets. A conveniant dataset is provided for a quick test.
 
 ## Features
 
